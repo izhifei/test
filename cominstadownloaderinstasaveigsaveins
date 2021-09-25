@@ -1,7 +1,16 @@
 [
   {
-    "type": "app",
-    "id": "id is xxx",
+    "link": "id is xxx",
+    "imgurl": "yyy",
+    "text": "sasasa"
+  },
+    {
+    "link": "id is xxx2",
+    "imgurl": "yyy",
+    "text": "sasasa"
+  },
+    {
+    "link": "id is xxx3",
     "imgurl": "yyy",
     "text": "sasasa"
   }
