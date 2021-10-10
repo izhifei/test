@@ -2,7 +2,6 @@
 	{
 		"link": "https://play.google.com/store/apps/dev?id=5113860602427758745",
 		"img": "yyy",
-		"force": false,
 		"title":
 		{
 			"en": "Insta downloader",
@@ -27,6 +26,6 @@
 			"en": "best downloader",
 			"zh": "者是一款非常牛逼的下载器"
 		},
-		"force": false
+		"policy": 22
 	}
 ]
