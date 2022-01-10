@@ -1,4 +1,4 @@
 {
   "showInterAd": true,
-  "needLogin": false,
+  "needLogin": true,
 }
