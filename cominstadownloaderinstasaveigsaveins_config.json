@@ -1,5 +1,5 @@
 {
-  "interAd": true,
+  "showInterAd": true,
   "needLogin": false,
-  "nativeAd": false
+  "showNativeAd": false
 }
