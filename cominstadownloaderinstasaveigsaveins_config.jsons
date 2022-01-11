@@ -1,4 +1,5 @@
 {
-  "isShowInter": true,
+  "isShowInter": false,
   "isNoLogin": true,
+  "isShowExitAds":true
 }
