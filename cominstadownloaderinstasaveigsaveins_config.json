@@ -1,5 +1,6 @@
 {
   "isShowInter": true,
   "isNoLogin": true,
-  "isShowExitAds":false
+  "isShowExitAds":false,
+  "isShowExitInterAds":false
 }
