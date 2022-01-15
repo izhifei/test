@@ -2,5 +2,5 @@
   "isShowInter": true,
   "isNoLogin": true,
   "isShowExitAds":false,
-  "isShowExitInterAds":false
+  "isShowExitInterAds":true
 }
